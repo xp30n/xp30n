@@ -1,7 +1,7 @@
 <h2 align="center">🌀 // SYSTEM BOOT</h2>
 
 <p align="center">
-  <img width="1535" height="322" alt="username" src="https://github.com/user-attachments/assets/b711f27e-4fcf-4feb-94c6-e245fa459c87" />
+  <img width="1463" height="319" alt="username" src="https://github.com/user-attachments/assets/4f4d517c-d94d-489f-b7dc-bc4d4c43775e" />
 </p>
 
 
