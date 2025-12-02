@@ -19,7 +19,13 @@
  
 <h2 align="center">ＭＯＤＵＬＥＳ ＩＮＳＴＡＬＬＥＤ</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,blender,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,blender&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,p5js&theme=dark" />
 </p>
 
 <p align="center"> 
