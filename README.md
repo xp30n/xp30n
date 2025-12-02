@@ -1,13 +1,32 @@
-![df32099f1b33ffe7096ee7aa6d6ba979](https://github.com/user-attachments/assets/d728bcb6-f574-425d-91d5-e6ff04ac1540)
+<h2 align="center">🌀 // SYSTEM BOOT</h2>
 
-- 🌀 Hi, I’m @xp30n
+<p align="center">
+  <img width="1535" height="322" alt="username" src="https://github.com/user-attachments/assets/b711f27e-4fcf-4feb-94c6-e245fa459c87" />
+</p>
 
-- 🫧 I’m a beginner coder learning JavaScript & React Native, studying at Concordia University (≧▽≦)
-- 🐬 Fun fact: I like the color blue:3
-  
-![xp30n's GitHub stats](https://github-readme-stats.vercel.app/api?username=xp30n&show_icons=true&theme=transparent)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>"Loading user profile... please do not remove the Memory Card."</i>
+</p>
 
-![1cadc122de8fd64114762ee3d9d43087](https://github.com/user-attachments/assets/efad96fa-aedf-4241-8511-44c09c59fe0a)
+<p align="center">
+  Learning JavaScript and React Native while shaping my own little digital world.<br> 
+  Currently studying at Concordia University in Montréal, and unlocking skills one save file at a time.<br>
+  MY FAV COLOR IS BLUE !!
+</p>
+
+<img align="center" width="1920" height="524" alt="network" src="https://github.com/user-attachments/assets/8f5f1784-83d5-4895-90af-9ecdb9fdfc74" />
+ 
+<h2 align="center">ＭＯＤＵＬＥＳ ＩＮＳＴＡＬＬＥＤ</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,blender,vscode,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="790" height="250" alt="Screenshot 2025-12-02 at 1 17 51 PM" src="https://github.com/user-attachments/assets/5541bfa5-b8dd-4aba-ac44-70d8fbbdd9e4" />
+</p>
+
+
+<p align="center">
+  <i>Press START to continue...</i>
+</p>
