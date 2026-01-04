@@ -34,10 +34,6 @@
 × Blender: Level 5 ×<br>
 </p>
 
-<p align="center"> 
-× Debugging: [ERROR 0x00D3B6: MODULE FAILURE] ×
-</p>
-
 <p align="center">
   <img width="790" height="250" alt="Screenshot 2025-12-02 at 1 17 51 PM" src="https://github.com/user-attachments/assets/5541bfa5-b8dd-4aba-ac44-70d8fbbdd9e4" />
 </p>
