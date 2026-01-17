@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Learning JavaScript and React Native while shaping my own little digital world.<br> 
+  Learning JavaScript while shaping my own little digital world.<br> 
   Currently studying at Concordia University in Montréal, and unlocking skills one save file at a time.<br>
   > system.color.default = "blue";
 </p>
