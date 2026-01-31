@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  Learning JavaScript while shaping my own little digital world.<br> 
-  Currently studying at Concordia University in Montréal, and unlocking skills one save file at a time.<br>
-  > system.color.default = "blue";
+  Learning JavaScript while shaping my own  digital archive.<br> 
+  Currently studying at Concordia University in Montréal
 </p>
 
 <img align="center" width="1920" height="524" alt="network" src="https://github.com/user-attachments/assets/8f5f1784-83d5-4895-90af-9ecdb9fdfc74" />
