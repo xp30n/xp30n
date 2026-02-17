@@ -27,11 +27,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,github,p5js&theme=dark" />
 </p>
 
-<p align="center"> 
-× Web Dev: Level 12 ×<br>
-× Mobile Dev: Level 8 ×<br>
-× Blender: Level 5 ×<br>
-</p>
 
 <p align="center">
   <img width="790" height="250" alt="Screenshot 2025-12-02 at 1 17 51 PM" src="https://github.com/user-attachments/assets/5541bfa5-b8dd-4aba-ac44-70d8fbbdd9e4" />
